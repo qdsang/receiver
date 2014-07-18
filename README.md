@@ -14,7 +14,7 @@ $ node server.js # default port 8999, use `node server.js <port>` change port
 
 
 
-# fis-conf.js 配置方式
+## fis-conf.js 配置方式
 
 ### 本地目录方式
 ```javascript
